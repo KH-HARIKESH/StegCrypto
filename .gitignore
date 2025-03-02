@@ -1,0 +1,5 @@
+__pycache__/
+*>pyo
+*.pyo
+*.env
+.DS_Store
