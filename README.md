@@ -96,7 +96,4 @@ This project is licensed under the **MIT License** — feel free to use and impr
 ---
 
 ## 👤 Author
-- **Your Name** — [GitHub](https://github.com/YOUR-USERNAME)
-
-Let me know if you’d like me to tweak anything or help with pushing this to your repo! 🚀✨
-
+- K HEMA HARIKESH — [GitHub](https://github.com/KH-HARIKESH)
